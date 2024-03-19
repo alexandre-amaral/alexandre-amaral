@@ -18,7 +18,6 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 - **Research Project with SOLIRIS at PUC Minas**
   - Engaged in a research project aimed at developing an innovative HR tool. This project focuses on utilizing Machine Learning, Natural Language Processing, and Artificial Intelligence to automate and improve the efficiency of resume analysis and candidate selection processes.
 
-
 ### 🛠 Skills
 
 #### Backend Technologies
@@ -26,10 +25,11 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="50" alt="Laravel"/>
 </p>
 
+          
 #### Frontend Technologies
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
@@ -48,11 +48,12 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 
 #### General Skills
 <p>
-  <!-- Example for Algorithms & Data Structures -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python for Algorithms"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="Machine Learning with TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" alt="Data Analysis with Tableau"/>
+<img src="https://img.shields.io/badge/-Algorithms-EF2D5E?style=for-the-badge&logo=algorithmia" width="140"/>
+<img src="https://img.shields.io/badge/-Data_Structures-FCC624?style=for-the-badge&logo=devpost" width="180"/>
+<img src="https://img.shields.io/badge/-Machine_Learning-0078D4?style=for-the-badge&logo=kaggle" width="190"/>
+<img src="https://img.shields.io/badge/-Data_Analysis-005571?style=for-the-badge&logo=tableau" width="170"/>
 </p>
+
 
 #### Cloud Technologies
 <p>
@@ -61,7 +62,6 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS"/>
 </p>
-
 
 
 
@@ -74,3 +74,4 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 - English (Fluent)
 - Spanish (Basic)
 - German (Beginner)
+
