@@ -22,38 +22,41 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 ### 🛠 Skills
 
 #### Frontend Technologies
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react" width="120"/>
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux" width="100"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" width="150"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5" width="100"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" width="90"/>
 
 #### Backend Technologies
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
-![APIs](https://img.shields.io/badge/-APIs-0298C3?style=flat-square&logo=swagger)
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" width="80"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python" width="110"/>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring" width="100"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" width="110"/>
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel" width="110"/>
+<img src="https://img.shields.io/badge/-APIs-0298C3?style=for-the-badge&logo=swagger" width="80"/>
 
 #### Database Technologies
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" width="100"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql" width="150"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" width="130"/>
 
 #### General Skills
-![Algorithms](https://img.shields.io/badge/-Algorithms-EF2D5E?style=flat-square&logo=algorithmia)
-![Data Structures](https://img.shields.io/badge/-Data_Structures-FCC624?style=flat-square&logo=devpost)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-0078D4?style=flat-square&logo=kaggle)
-![Data Analysis](https://img.shields.io/badge/-Data_Analysis-005571?style=flat-square&logo=tableau)
+<img src="https://img.shields.io/badge/-Algorithms-EF2D5E?style=for-the-badge&logo=algorithmia" width="140"/>
+<img src="https://img.shields.io/badge/-Data_Structures-FCC624?style=for-the-badge&logo=devpost" width="180"/>
+<img src="https://img.shields.io/badge/-Machine_Learning-0078D4?style=for-the-badge&logo=kaggle" width="190"/>
+<img src="https://img.shields.io/badge/-Data_Analysis-005571?style=for-the-badge&logo=tableau" width="170"/>
+
 
 #### Cloud Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" height="28" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux" height="28" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure" height="28" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws" height="28" />
+</p>
 
-### 📊 GitHub Stats
+
 
 ### 🎓 Education
 
