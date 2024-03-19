@@ -55,6 +55,10 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-amaral&show_icons=true)
 
+### 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-amaral&layout=compact)
+
 ### 🎓 Education
 
 - **Software Engineering**, PUC Minas (2022 - currently)
