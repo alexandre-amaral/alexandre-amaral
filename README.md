@@ -26,7 +26,7 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="80" alt="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="80" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="80" alt="Laravel"/>
 </p>
 
 #### Frontend Technologies
@@ -47,11 +47,12 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 
 #### General Skills
 <p>
-  <!-- General skills without specific DevIcon wordmarks; consider using general badges or descriptions -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/algorithm/algorithm-plain.svg" width="80" alt="Algorithms"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" width="80" alt="Machine Learning"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="80" alt="Data Analysis"/>
+<img src="https://img.shields.io/badge/-Algorithms-EF2D5E?style=for-the-badge&logo=algorithmia" width="140"/>
+<img src="https://img.shields.io/badge/-Data_Structures-FCC624?style=for-the-badge&logo=devpost" width="180"/>
+<img src="https://img.shields.io/badge/-Machine_Learning-0078D4?style=for-the-badge&logo=kaggle" width="190"/>
+<img src="https://img.shields.io/badge/-Data_Analysis-005571?style=for-the-badge&logo=tableau" width="170"/>
 </p>
+
 
 #### Cloud Technologies
 <p>
@@ -60,8 +61,6 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="80" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" alt="AWS"/>
   </p>
-
-
 
 ### 🎓 Education
 
@@ -72,4 +71,9 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 - English (Fluent)
 - Spanish (Basic)
 - German (Beginner)
+
+
+
+
+
 
