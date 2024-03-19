@@ -59,11 +59,6 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 
 - **Software Engineering**, PUC Minas (2022 - currently)
 
-
-### 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-amaral&layout=compact)
-
 ### 🌎 Languages
 
 - English (Fluent)
