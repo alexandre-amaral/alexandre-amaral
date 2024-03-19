@@ -2,20 +2,22 @@
 
 ## 👨‍💻 Software Engineer
 
-I'm deeply passionate about utilizing technology to solve complex problems and improve everyday life. My expertise spans across developing robust software solutions, data analysis, and implementing advanced technologies in a variety of innovative projects. Currently enhancing my skills in software engineering at PUC Minas.
+I'm deeply passionate about utilizing technology to solve complex problems and improve everyday life. My expertise spans across developing robust software solutions, data analysis, and implementing advanced technologies in a variety of innovative projects.
 
 ### 📞 Contact
 - **Phone:** +55 31 98985-8037
 - **Email:** [alexandre.samaral@protonmail.com](mailto:alexandre.samaral@protonmail.com)
-- **GitHub:** [alexandre-amaral](https://github.com/alexandre-amaral)
 
 ### 💼 Experience
 
-- **Software Development & Data Analysis**
-  - Specializing in developing systems with a focus on backend development, database management, and frontend integration. My projects involve ETL processes, performance optimization, and developing user-friendly interfaces.
+#### Software Development
+- **Software Developer/Data Analyst**
+  - Specializing in developing systems with a focus on backend development, database management, and frontend integration. My projects include developing robust, transactional CRUD systems that ensure high performance and reliability.
 
-- **Research & Development**
-  - Engaged in projects utilizing Machine Learning, Natural Language Processing, and Artificial Intelligence to tackle real-world challenges.
+#### Research & Development
+- **Research Project with SOLIRIS at PUC Minas**
+  - Engaged in a research project aimed at developing an innovative HR tool. This project focuses on utilizing Machine Learning, Natural Language Processing, and Artificial Intelligence to automate and improve the efficiency of resume analysis and candidate selection processes.
+
 
 ### 🛠 Skills
 
@@ -53,15 +55,14 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-amaral&show_icons=true)
+### 🎓 Education
+
+- **Software Engineering**, PUC Minas (2022 - currently)
+
 
 ### 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-amaral&layout=compact)
-
-### 🎓 Education
-
-- **Software Engineering**, PUC Minas (2022 - currently)
 
 ### 🌎 Languages
 
