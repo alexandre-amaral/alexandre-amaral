@@ -23,47 +23,45 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 
 #### Backend Technologies
 <p>
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" width="80"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python" width="110"/>
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring" width="100"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" width="110"/>
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel" width="110"/>
-<img src="https://img.shields.io/badge/-APIs-0298C3?style=for-the-badge&logo=swagger" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" alt="Laravel"/>
 </p>
 
 #### Frontend Technologies
 <p>
-<img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react" width="120"/>
-<img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux" width="100"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" width="150"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5" width="100"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" alt="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
 </p>
-
 
 #### Database Technologies
 <p>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" width="100"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql" width="150"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" width="130"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
 </p>
 
 #### General Skills
 <p>
-<img src="https://img.shields.io/badge/-Algorithms-EF2D5E?style=for-the-badge&logo=algorithmia" width="140"/>
-<img src="https://img.shields.io/badge/-Data_Structures-FCC624?style=for-the-badge&logo=devpost" width="180"/>
-<img src="https://img.shields.io/badge/-Machine_Learning-0078D4?style=for-the-badge&logo=kaggle" width="190"/>
-<img src="https://img.shields.io/badge/-Data_Analysis-005571?style=for-the-badge&logo=tableau" width="170"/>
+  <!-- Example for Algorithms & Data Structures -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python for Algorithms"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="Machine Learning with TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" alt="Data Analysis with Tableau"/>
 </p>
-
 
 #### Cloud Technologies
 <p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" height="28" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux" height="28" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure" height="28" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS"/>
 </p>
+
 
 
 
