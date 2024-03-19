@@ -21,6 +21,16 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 
 ### 🛠 Skills
 
+#### Backend Technologies
+<p>
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" width="80"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python" width="110"/>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring" width="100"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" width="110"/>
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel" width="110"/>
+<img src="https://img.shields.io/badge/-APIs-0298C3?style=for-the-badge&logo=swagger" width="80"/>
+</p>
+
 #### Frontend Technologies
 <p>
 <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react" width="120"/>
@@ -30,13 +40,6 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" width="90"/>
 </p>
 
-#### Backend Technologies
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" width="80"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python" width="110"/>
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring" width="100"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" width="110"/>
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel" width="110"/>
-<img src="https://img.shields.io/badge/-APIs-0298C3?style=for-the-badge&logo=swagger" width="80"/>
 
 #### Database Technologies
 <p>
