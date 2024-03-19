@@ -69,6 +69,7 @@ I'm deeply passionate about utilizing technology to solve complex problems and i
 ### 🌎 Languages
 
 - English (Fluent)
+- Portuguese (Fluent)
 - Spanish (Basic)
 - German (Beginner)
 
