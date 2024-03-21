@@ -29,7 +29,6 @@ I'm deeply passionate about leveraging technology to address complex challenges 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-amral&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-amaral&show_icons=true&theme=radical)
 
-> Note: Replace `alexandre-amral` with your actual GitHub username in the URL above to display your GitHub stats.
 
