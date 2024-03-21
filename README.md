@@ -1,10 +1,12 @@
 # 👨‍💻 Alexandre Amaral | Software Engineer
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px">
-
 I'm deeply passionate about leveraging technology to address complex challenges and enhance daily life. Specializing in developing robust software solutions, performing data analysis, and contributing to a variety of innovative projects.
 
 📫 How to reach me: [alexandre.samaral@protonmail.com](mailto:alexandre.samaral@protonmail.com)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-amaral&layout=compact&theme=radical)
 
 ## 🛠 Skills
 
@@ -27,12 +29,3 @@ I'm deeply passionate about leveraging technology to address complex challenges 
 
 - **Software Engineering**, PUC Minas (2022 - Present)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-amral&show_icons=true&theme=radical)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-amral&layout=compact&theme=radical)
-
-> Note: Replace `alexandre-amral` with your actual GitHub username in the URLs above to display your GitHub stats and most used languages.
