@@ -1,6 +1,6 @@
 # 👨‍💻 Alexandre Amaral | Software Engineer
 
-I'm deeply passionate about leveraging technology to address complex challenges and enhance daily life. Specializing in developing robust software solutions, performing data analysis, and contributing to a variety of innovative projects.
+I'm a 22 years old student,  deeply passionate about leveraging technology to address complex challenges and enhance daily life. Specializing in developing robust software solutions, performing data analysis, and contributing to a variety of innovative projects.
 
 📫 How to reach me: [alexandre.samaral@protonmail.com](mailto:alexandre.samaral@protonmail.com)
 
