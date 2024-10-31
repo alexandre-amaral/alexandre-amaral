@@ -1,31 +1,82 @@
-# 👨‍💻 Alexandre Amaral | Software Engineer
+# 🌐 Alexandre Amaral
 
-I'm a 22 years old student,  deeply passionate about leveraging technology to address complex challenges and enhance daily life. Specializing in developing robust software solutions, performing data analysis, and contributing to a variety of innovative projects.
+![Profile Views](https://komarev.com/ghpvc/?username=alexandre-amaral&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-amaral-570976225/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=google-chrome&logoColor=white)](https://alexandreamaral.framer.ai/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexandre.samaral@protonmail.com)
 
-📫 How to reach me: [alexandre.samaral@protonmail.com](mailto:alexandre.samaral@protonmail.com)
+## 👨‍💻 About Me / Sobre Mim
+🇧🇷
+Sou **Desenvolvedor Full Stack** e **Analista de Dados**, freelancer e estudante de **Sistemas de Informação** na PUC Minas. Com experiência em desenvolvimento de sistemas para o Governo de Minas Gerais e colaboração em projetos de IA e análise de dados, estou sempre buscando inovar e agregar valor em cada projeto. 🎓
 
-## 💻 Most Used Languages
+🇺🇸
+I'm a **Full Stack Developer** and **Data Analyst**, freelancer, and **Information Systems** student at PUC Minas. Experienced in system development for the Minas Gerais Government and AI/data analysis projects, I aim to innovate and add value in every project I undertake. 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-amaral&layout=compact&theme=radical)
+## 💼 Professional Experience / Experiência Profissional
 
-## 🛠 Skills
+- **Full Stack Developer & Data Analyst** | SEGOV - Governo de MG  
+   *Laravel, MySQL, ETL processes, data analysis*  
+   - 🇧🇷 Desenvolvimento de sistemas de tramitação de documentos para otimizar fluxos de trabalho.  
+   - 🇺🇸 Document tracking system development to optimize workflow.
 
-### Backend Technologies
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
+- **Junior Researcher / AI Developer** | PUC Minas & SOLIRIS  
+   *NLP, Machine Learning, Web Scraping, API development*  
+   - 🇧🇷 Ferramenta de análise automatizada de currículos para otimizar processos de RH.  
+   - 🇺🇸 Automated resume analysis tool for optimizing HR processes.
 
-### Frontend Technologies
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+- **Full Stack Developer (Python, AI)** | UFMG Software Project  
+   *Data mining, APIs, Flask, FastAPI*  
+   - 🇧🇷 Desenvolvimento de uma calculadora para cálculos toxicológicos, apoiando a pesquisa em farmacologia.  
+   - 🇺🇸 Toxicology calculation tool to support pharmacology research.
 
-### Database Technologies
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+- **Web Developer (Freelancer)**  
+   *Responsive web development, SEO*  
+   - 🇧🇷 Desenvolvimento e manutenção de aplicações web para clientes independentes.  
+   - 🇺🇸 Web application development and maintenance for independent clients.
 
-### General Skills
-![Algorithms](https://img.shields.io/badge/-Algorithms-EF2D5E?style=flat-square) ![Data Structures](https://img.shields.io/badge/-Data_Structures-FCC624?style=flat-square) ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-0078D4?style=flat-square) ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-005571?style=flat-square)
+## 🛠️ Skills / Habilidades
 
-### Cloud Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+**Languages / Linguagens**:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
-## 🎓 Education
+**Front-End**:  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![NextJS](https://img.shields.io/badge/-Next.js-000000?logo=next-dot-js&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-- **Software Engineering**, PUC Minas (2022 - Present)
+**Frameworks & Libraries / Frameworks e Bibliotecas**:  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white) 
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) 
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 
+**Databases / Bancos de Dados**:  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Tools & Platforms / Ferramentas e Plataformas**:  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+## 📊 Other Competencies / Outras Competências
+- ETL Processes | Processos ETL
+- Machine Learning
+- Data Analysis | Análise de Dados
+- Algorithms and Data Structures | Algoritmos e Estruturas de Dados
+
+## 📚 Education / Formação
+- 🎓 **Bachelor's in Information Systems** (ongoing) | PUC Minas  
+- 🌍 **Exchange Program** | Mankato East High School, USA
+
+---
+
+🌎 "Driven by technology, empowered by data." | "Movido pela tecnologia, fortalecido pelos dados."
