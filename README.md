@@ -5,10 +5,10 @@
 
 ## 👨‍💻 About Me / Sobre Mim
 🇧🇷
-Sou **Desenvolvedor Full Stack** e **Analista de Dados**, freelancer e estudante de **Sistemas de Informação** na PUC Minas. Com experiência em desenvolvimento de sistemas para o Governo de Minas Gerais e colaboração em projetos de IA e análise de dados, estou sempre buscando inovar e agregar valor em cada projeto. 🎓
+Sou **Desenvolvedor Full Stack** e **Analista de Dados**, freelancer e estudante de **Sistemas de Informação** na PUC Minas. Com experiência em desenvolvimento de sistemas para o Governo de Minas Gerais e colaboração em projetos de IA e análise de dados, estou sempre buscando inovar e agregar valor em cada projeto. 
 
 🇺🇸
-I'm a **Full Stack Developer** and **Data Analyst**, freelancer, and **Information Systems** student at PUC Minas. Experienced in system development for the Minas Gerais Government and AI/data analysis projects, I aim to innovate and add value in every project I undertake. 🚀
+I'm a **Full Stack Developer** and **Data Analyst**, freelancer, and **Information Systems** student at PUC Minas. Experienced in system development for the Minas Gerais Government and AI/data analysis projects, I aim to innovate and add value in every project I undertake. 
 
 ## 🛠️ Skills / Habilidades
 
