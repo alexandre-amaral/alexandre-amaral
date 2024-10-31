@@ -1,14 +1,16 @@
 # 🌐 Alexandre Amaral
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-amaral-570976225/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=globe&logoColor=white)](https://alexandreamaral.framer.ai/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=envelope&logoColor=white)](mailto:alexandre.samaral@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=envelope&logoColor=white)](mailto:alexandre.samaral@protonmail.com)  
+[![Download CV PT](https://img.shields.io/badge/CV_Português-grey?logo=download&logoColor=white)](https://github.com/alexandre-amaral/cv/raw/main/Curriculo_Alexandre_Amaral_PT.pdf)  
+[![Download CV EN](https://img.shields.io/badge/CV_English-grey?logo=download&logoColor=white)](https://github.com/alexandre-amaral/cv/raw/main/Curriculo_Alexandre_Amaral_EN.pdf)
 
 ## 👨‍💻 About Me / Sobre Mim
-🇧🇷
-Sou **Desenvolvedor Full Stack** e **Analista de Dados**, freelancer e estudante de **Sistemas de Informação** na PUC Minas. Com experiência em desenvolvimento de sistemas para o Governo de Minas Gerais e colaboração em projetos de IA e análise de dados, estou sempre buscando inovar e agregar valor em cada projeto. 
+🇧🇷  
+Sou **Desenvolvedor Full Stack** e **Analista de Dados**, freelancer e estudante de **Sistemas de Informação** na PUC Minas. Com experiência em desenvolvimento full stack para o Governo de Minas Gerais, além de outras empresas, e em colaboração em projetos de IA e análise de dados, estou sempre buscando inovar e agregar valor em cada projeto.
 
-🇺🇸
-I'm a **Full Stack Developer** and **Data Analyst**, freelancer, and **Information Systems** student at PUC Minas. Experienced in system development for the Minas Gerais Government and AI/data analysis projects, I aim to innovate and add value in every project I undertake. 
+🇺🇸  
+I'm a **Full Stack Developer** and **Data Analyst**, freelancer, and **Information Systems** student at PUC Minas. Experienced in system development for the Minas Gerais Government and AI/data analysis projects, I aim to innovate and add value in every project I undertake.
 
 ## 🛠️ Skills / Habilidades
 
@@ -55,4 +57,4 @@ I'm a **Full Stack Developer** and **Data Analyst**, freelancer, and **Informati
 
 ---
 
-🌎 "Driven by technology, empowered by data." | "Movido pela tecnologia, fortalecido pelos dados."v
+🌎 "Driven by technology, empowered by data." | "Movido pela tecnologia, fortalecido pelos dados."
