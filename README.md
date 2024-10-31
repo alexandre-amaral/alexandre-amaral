@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=globe&logoColor=white)](https://alexandreamaral.framer.ai/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=envelope&logoColor=white)](mailto:alexandre.samaral@protonmail.com)  
 [![Download CV PT](https://img.shields.io/badge/CV_Português-grey?logo=download&logoColor=white)](https://github.com/alexandre-amaral/cv/raw/main/Curriculo_Alexandre_Amaral_PT.pdf)  
-[![Download CV EN](https://img.shields.io/badge/CV_English-grey?logo=download&logoColor=white)](https://github.com/alexandre-amaral/cv/raw/main/Curriculo_Alexandre_Amaral_EN.pdf)
+[![Download CV EN](Alexandre_Amaral_Resume.pdf)
 
 ## 👨‍💻 About Me / Sobre Mim
 🇧🇷  
