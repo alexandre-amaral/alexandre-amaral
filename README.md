@@ -1,6 +1,5 @@
 # 🌐 Alexandre Amaral
 
-![Profile Views](https://komarev.com/ghpvc/?username=alexandre-amaral&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-amaral-570976225/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=google-chrome&logoColor=white)](https://alexandreamaral.framer.ai/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexandre.samaral@protonmail.com)
