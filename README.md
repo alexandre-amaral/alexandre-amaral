@@ -56,10 +56,6 @@ I'm a **Full Stack Developer** and **Data Analyst**, freelancer, and **Informati
 - 🎓 **Bachelor's in Information Systems** (ongoing) | PUC Minas  
 - 🌍 **Exchange Program** | Mankato East High School, USA
 
-## 📊 Most Used Languages / Linguagens Mais Utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreamaral&layout=compact&langs_count=8&theme=default)
-
 ---
 
 🌎 "Driven by technology, empowered by data." | "Movido pela tecnologia, fortalecido pelos dados."
