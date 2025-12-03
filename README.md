@@ -1,61 +1,68 @@
-# 🌐 Alexandre Amaral
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-amaral-570976225/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=globe&logoColor=white)](https://alexandreamaral.framer.ai/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=envelope&logoColor=white)](mailto:alexandre.samaral@protonmail.com)  
-[![Download CV PT](https://img.shields.io/badge/CV_Português-grey?logo=download&logoColor=white)](Currículo_Alexandre_Amaral.pdf)  
-[![Download CV EN](https://img.shields.io/badge/CV_English-grey?logo=download&logoColor=white)](Alexandre_Amaral_Resume.pdf)
+# Hi there, I'm Alexandre Amaral 👋
 
+## Data & AI Engineer | Full Stack Developer
 
-## 👨‍💻 About Me / Sobre Mim
-🇧🇷  
-Sou **Desenvolvedor Full Stack** e **Analista de Dados**, freelancer e estudante de **Sistemas de Informação** na PUC Minas. Com experiência em desenvolvimento full stack para o Governo de Minas Gerais, além de outras empresas, e em colaboração em projetos de IA e análise de dados, estou sempre buscando inovar e agregar valor em cada projeto.
+I'm a Data & AI Engineer based in Belo Horizonte, Brazil, passionate about building intelligent solutions that scale. I specialize in transforming data challenges into production-ready systems that deliver real business value.
 
-🇺🇸  
-I'm a **Full Stack Developer** and **Data Analyst**, freelancer, and **Information Systems** student at PUC Minas. Experienced in system development for the Minas Gerais Government and AI/data analysis projects, I aim to innovate and add value in every project I undertake.
+### 🔭 What I Do
 
-## 🛠️ Skills / Habilidades
+- **AI & Machine Learning**: Building AI agents and multi-agent systems with LangChain and LangGraph
+- **Data Engineering**: Designing and implementing ETL/ELT pipelines on Azure, GCP, and AWS
+- **Full Stack Development**: Creating end-to-end applications with Next.js, FastAPI, and modern frameworks
+- **Cloud Architecture**: Deploying scalable solutions on Databricks, BigQuery, and cloud platforms
 
-**Languages / Linguagens**:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+### 💼 Current Role
 
-**Front-End**:  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![NextJS](https://img.shields.io/badge/-Next.js-000000?logo=next-dot-js&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+**Data Analytics & AI Engineer @ ATRA** (Sept 2025 - Present)
+- Developing data integration and analytics solutions in cloud environments
+- Implementing AI agent models for process automation
+- Migrating data pipelines to modern architectures
 
-**Frameworks & Libraries / Frameworks e Bibliotecas**:  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white) 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) 
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+### 🛠️ Tech Stack
 
-**Databases / Bancos de Dados**:  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+**AI/ML & Data**
+- LangChain, LangGraph, TensorFlow, Scikit-learn
+- NLP (NLTK, SpaCy), RAG Systems
+- Pandas, NumPy, Statistical Modeling
 
-**Tools & Platforms / Ferramentas e Plataformas**:  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+**Data Engineering**
+- ETL/ELT Pipelines, Data Modeling, Data Warehousing
+- Azure (Data Factory, Databricks)
+- GCP (BigQuery, Cloud Functions)
+- AWS (S3, Lambda)
 
-## 📊 Other Competencies / Outras Competências
-- ETL Processes | Processos ETL
-- Machine Learning
-- Data Analysis | Análise de Dados
-- Algorithms and Data Structures | Algoritmos e Estruturas de Dados
+**Development**
+- **Languages**: Python, TypeScript, SQL, Bash
+- **Backend**: FastAPI, Flask, Django, Node.js
+- **Frontend**: Next.js, React
+- **Databases**: PostgreSQL, MS SQL Server, MySQL, MongoDB
+- **DevOps**: Docker, Git, CI/CD, Linux
 
-## 📚 Education / Formação
-- 🎓 **Bachelor's in Information Systems** (ongoing) | PUC Minas  
-- 🌍 **Exchange Program** | Mankato East High School, USA
+### 🚀 Notable Projects & Experience
+
+**Lead Python & AI Engineer @ PDE Calculator | UFMG** (2022-2023)
+- Led development of an AI-powered platform for pharmaceutical compliance
+- Implemented NLP pipelines for automated extraction from scientific literature
+
+**AI Engineer @ PUC Minas** (2021-2022)
+- Built automated resume analysis tool with NLP and ML
+
+### 🎓 Education
+
+- **BTech in Systems Analysis and Development** - FIAP (2025-2027, In Progress)
+- **BSc in Computer Science** - PUC Minas (2020-2022)
+
+### 🌍 Languages
+
+- **Portuguese**: Native
+- **English**: Fluent (C2)
+
+### 📫 Let's Connect
+
+- 📧 Email: alexandre.samaral@protonmail.com
+- 💼 LinkedIn: [alexandre-amaral](www.linkedin.com/in/alexandre-slamaral)
+- 📍 Location: Belo Horizonte, MG, Brazil
 
 ---
 
-🌎 "Driven by technology, empowered by data." | "Movido pela tecnologia, fortalecido pelos dados."
+💡 *Open to collaborating on AI/ML projects, data engineering solutions, and innovative full-stack applications.*
